@@ -1,4 +1,4 @@
-# couchbase-timeseries-sql++-queries
+# Couchbase Time Series SQL++ Queries
 
 ## Description
 
